@@ -1,4 +1,4 @@
-console.log("wlcome to node.js");
+console.log("Welcome to node.js");
 function square(num) {
   return num * num;
 }
